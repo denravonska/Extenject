@@ -1,3 +1,14 @@
+[![openupm](https://img.shields.io/npm/v/com.svermeulen.extenject?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.svermeulen.extenject/)
+
+This repository has UPM support. Install it with:
+
+```
+npm install -g openupm-cli
+openupm add com.svermeulen.extenject
+```
+
+----
+
 ![Extenject Header Image](Documentation/Images/ExtenjectMainHeader.png)
 
 [![Gitter](https://img.shields.io/static/v1?label=Gitter&labelColor=ED1965&message=Support&color=grey&logo=Gitter&logoColor=White&url=https://gitter.im/Extenject/community)](https://gitter.im/Extenject/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
